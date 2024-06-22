@@ -1,1 +1,2 @@
-First initial commit
+First initial commit.
+Basic Information finished.
