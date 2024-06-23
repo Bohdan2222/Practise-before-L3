@@ -1,0 +1,2 @@
+This file was created to be a foundation of our project.
+This file ideally should not be change only in very specific and rare cases.
